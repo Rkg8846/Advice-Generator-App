@@ -97,17 +97,6 @@ body {
     transform: rotate(360deg);
 }
 
-.attribution {
-    color: var(--light-cyan);
-    font-size: 11px; 
-    text-align: center; 
-}
-
-.attribution a { 
-    color: var(--neon-green); 
-    text-decoration: none;
-}
-
 @media (max-width: 600px) {
     .card {
         margin: 1rem;
@@ -131,10 +120,5 @@ body {
 
     .card-content .advice-id-text {
         margin-bottom: .88rem;
-    }
-
-    .attribution {
-        font-size: 9px; 
-        text-align: center; 
     }
 }
